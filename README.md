@@ -63,3 +63,6 @@ https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nuZ09c5ERSep8BhmoiZ7Sg_f
 
 
 You can now create an ER diagram for Global Super Store and use MySQL Workbench’s Forward Engineer feature to implement the ER diagram in a MySQL database. You also know how to develop a dimensional data model for the Global Super Store. You can also analyze data with relevant charts using Tableau and build an interactive dashboard.
+
+Disclaimer: This is for my Project on Advanced Data Modeling(Meta Database Engineering Specialization). 
+I did not create nor take part in creating this question, attached are my own attepts(my project).
