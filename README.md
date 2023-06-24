@@ -1,4 +1,4 @@
-# Data modeling project
+# Data modeling project(Meta Database Engineering)
 A data modeling project for Global Super Store.
 Scenario
 Global Super Store have collected huge amounts of data from their business operations within the USA. This data has been collected in an excel sheet with the following data fields: 
