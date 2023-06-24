@@ -54,9 +54,12 @@ https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Lrbi5wsZTQ-4YTyrkGT6AA_8
 Step 6: Create a line chart
 The Global Super Store want to view sales trends in the USA over the last 4 years. Create a line chart in Tableau for states with Sales of more than $40000. Call it “Sales Trend in USA”, as shown below. 
 https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/o-H7V-nXTUyh3GSf_4sdCw_df9e11980ee14d529fe0a3ac9e2ff0e1_C7M4L1-Item-3-img-3.png?expiry=1687737600000&hmac=zra0X1yLyIxJXb5HK2Pm6MnP1Z0BPjJEPKSYBoJya0I
+![image](https://github.com/Celine0k0y3/DB_Project/assets/122078188/a708f3a0-9bca-4ad9-831c-36f78e383ca4)
 
 Step 7: Create an interactive dashboard
 Create an interactive dashboard that includes the charts produced in tasks 4, 5 and 6. Name it ‘Sales and Profits in the USA’. If you click on a state, you should be able to view relevant sales and profits information as shown below.
 https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nuZ09c5ERSep8BhmoiZ7Sg_f96eaa8e6acd47049b3c175ffd1298e1_C7M4L1-Item-3-img-4.png?expiry=1687737600000&hmac=Gv1_eCFpyWbfdbAD9p1_MeiqnSrzJsmWyHDugwEA41A
+![image](https://github.com/Celine0k0y3/DB_Project/assets/122078188/7b9094c3-53cb-4ee4-8aa9-9b38f4ab2c1a)
+
 
 You can now create an ER diagram for Global Super Store and use MySQL Workbench’s Forward Engineer feature to implement the ER diagram in a MySQL database. You also know how to develop a dimensional data model for the Global Super Store. You can also analyze data with relevant charts using Tableau and build an interactive dashboard.
